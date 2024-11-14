@@ -15,3 +15,15 @@ O aplicativo **Sempre Verde** foi desenvolvido para ajudar pecuaristas e agricul
 - **Análise do solo** (nutrientes e micronutrientes).
 - **Cálculo da calagem.**
 - **Cálculo da adubação.**
+
+## Licença
+Sempre Verde é lançado nos termos da [MIT License](https://github.com/emanuelet123/SempreVerde/blob/main/LICENSE).
+
+## Suporte
+Se precisar de ajuda ou tiver alguma dúvida, pode pedir ajuda através do canal abaixo:
+- **Email:** *emanuelbarreira123@gmail.com*
+
+## APK
+- **Versão do Android** >= 14
+- **Android API** >= 34
+- **[Baixar APK](https://github.com/emanuelet123/SempreVerde/blob/main/bin)**

@@ -16,6 +16,14 @@ The **Sempre Verde** application was developed to help livestock farmers choose 
 - **Liming calculation.**
 - **Fertilization calculation.**
 
+## License
+Sempre Verde is released under the terms of [MIT License](https://github.com/emanuelet123/SempreVerde/blob/main/LICENSE).
 
+## Support
+If you need assistance or have a question, you can ask for help through the channel below:
+- **Email:** *emanuelbarreira123@gmail.com*
 
-
+## APK
+- **Android Version** >= 14
+- **Android API** >= 34
+- **[Download APK](https://github.com/emanuelet123/SempreVerde/blob/main/bin)**
